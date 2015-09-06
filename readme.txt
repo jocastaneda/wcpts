@@ -2,7 +2,7 @@
 Contributors: jcastaneda
 Tags: widget, custom-post-type
 Requires at least: 2.8
-Tested up to: 4.3-beta1
+Tested up to: 4.4-alpha-33934
 
 == Description ==
 Display a list of the latests content from a custom post type in a widgetized area of your theme. All you have to do is pick they type and how many to list.
