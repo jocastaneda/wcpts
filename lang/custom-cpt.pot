@@ -1,0 +1,74 @@
+# Copyright (C) 2015 Widgetized CPTs
+# This file is distributed under the same license as the Widgetized CPTs package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Widgetized CPTs 0.1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/custom-cpt\n"
+"POT-Creation-Date: 2015-07-06 21:00:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: custom-cpt.php:36
+msgid "Display Custom Post Types"
+msgstr ""
+
+#: custom-cpt.php:37
+msgid "Display your custom post type content in a widgetized area"
+msgstr ""
+
+#: custom-cpt.php:88
+msgid "Appears nothing was found"
+msgstr ""
+
+#: custom-cpt.php:94
+msgid "Appears there are no custom post types to display. Why not create <a href=\"%s\">some</a>?"
+msgstr ""
+
+#: custom-cpt.php:118
+msgid "It appears there are no custom post types to select"
+msgstr ""
+
+#: custom-cpt.php:126
+msgid "Title:"
+msgstr ""
+
+#: custom-cpt.php:128
+msgid "Post Type:"
+msgstr ""
+
+#: custom-cpt.php:139
+msgid "How many would you like to show?"
+msgstr ""
+
+#: custom-cpt.php:141
+msgid "Order by"
+msgstr ""
+
+#: custom-cpt.php:145
+msgctxt "sort randomly"
+msgid "Random"
+msgstr ""
+
+#: custom-cpt.php:146
+msgctxt "sort by date"
+msgid "Date"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Widgetized CPTs"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Display a link list to your custom post type in a widgetized area. Choose how many and how to order them"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jose Castaneda"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://blog.josemcastaneda.com"
+msgstr ""
